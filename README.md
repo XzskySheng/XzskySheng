@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @XzskySheng
 - 👀 I’m interested in cyber security and machine learning.
 - 🌱 I’m currently learning kali linux and pytorch.
-- 💞️ I’m looking to collaborate on red team penetration testing.
+- 💞️ I’m looking to collaborate on red team penetration testing and time series data analysis.
 - 📫 How to reach me on twitter@shengsky2.
 
 <!---
